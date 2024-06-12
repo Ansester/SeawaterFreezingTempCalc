@@ -2,10 +2,6 @@
  Author: Ashmit Shankar Mukherjee
  Date Created: October 10, 2023
  Description:
- ___________________________________________________
- Assignment 1 - Computer Programming for Engineers
- ___________________________________________________
- Civil Engineering Case Study - Freezing Temperature of Seawater:
  This program calculates the linear interpolation function of the freezing temperature of seawater by
  using data points uploaded by the user. It first computes the model parameters and then inputs them
  into the interpolation function model equation. The program also gives the user an option to calculate
