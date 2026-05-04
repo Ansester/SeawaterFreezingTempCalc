@@ -30,7 +30,6 @@ seawater_data.txt
   - [Algorithm](#algorithm)
 - [Test Cases](#test-cases)
 - [Usage Instructions](#usage-instructions)
-- [Conclusion](#conclusion)
 
 ## Technical Details
 
@@ -105,6 +104,3 @@ The program has been tested with various scenarios to ensure robustness and accu
 
 3. **Exit**:
    - Select the exit option to terminate the program.
-
-## Conclusion
-This project successfully demonstrates the calculation of the freezing temperature of seawater based on its salinity using a C++ program. The program accurately calculates the linear interpolation function and the freezing temperature for given salinity values, showcasing robust handling of various test cases and error scenarios.
