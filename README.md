@@ -5,6 +5,24 @@ This project involves the development of a C++ program designed to calculate the
 1. Calculation of the linear interpolation function between salinity and freezing temperature.
 2. Calculation of the freezing temperature based on user input salinity using the developed model.
 
+## Quick Start
+
+```bash
+g++ -std=c++17 main.cpp -o seawater_calc
+./seawater_calc
+```
+
+The repository includes `seawater_data.txt`, a small sample dataset used in the README test cases. Example interaction:
+
+```text
+1
+seawater_data.txt
+2
+seawater_data.txt
+25
+3
+```
+
 ## Table of Contents
 - [Overview](#overview)
 - [Technical Details](#technical-details)
